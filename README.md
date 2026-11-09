@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · shaurya-anurag</sub></p>
 <h1>g4ru8na_ayru4hs</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Backend or AI Engineer</h2>
 <p>I write questionable code at 2 AM and somehow it works.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
